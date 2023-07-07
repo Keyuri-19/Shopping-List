@@ -1,5 +1,5 @@
 body{
-    margin:173px;
+    margin:123px;
     text-align: center;
     background: linear-gradient(217deg, rgba(247, 131, 131, 0.8), rgba(255,0,0,0) 70.71%),            
                 linear-gradient(127deg, rgba(171, 248, 171, 0.8), rgba(0,255,0,0) 70.71%),            
@@ -13,7 +13,7 @@ body{
     border: 3px solid rgb(2, 35, 4);
     border-radius: 35px;
     width: 800px;
-    height: 500px;
+    min-height: 500px;
     margin: auto;
     margin-bottom: 6px;
     background: -webkit-linear-gradient(top, rgba(165, 230, 247, 0.8) 10%, rgba(246, 190, 240, 0.878) 100%);
