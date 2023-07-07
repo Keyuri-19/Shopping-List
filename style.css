@@ -6,7 +6,7 @@ body{
                 linear-gradient(336deg, rgba(143, 143, 248, 0.8), rgba(0,0,255,0) 70.71%);
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 100px;
+    min-height: 50px;
 }
 
 .container{
